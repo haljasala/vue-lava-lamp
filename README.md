@@ -1,6 +1,6 @@
 # vue-lava-lamp
 
-Lava lamp style vue background aka circles morphing into eachother.
+Reactive lava lamp style vue background aka circles morphing into eachother.
 
 These were created with vue3 and quasar, so you might need to adjust code a bit but should work anywhere where you can insert a canvas after some modifications. :)
 
